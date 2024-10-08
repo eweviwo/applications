@@ -1,0 +1,53 @@
+[Logo on top]
+
+Podcast Producer Application
+----------------------------
+
+This form receives application from anyone interested to produce a podcast episode. 
+
+Application will be vetted on a timely basis and considered ones will be contacted to be interviewed on a video call with prior notice. 
+
+You are encouraged to submit accurate data about yourself for a helpful interview experience to both parties so as to be able to be match to a good episode assignment. 
+
+Currently, the role is not offered a pay. We are soliciting interests from people who want to do it for the culture. You can reach out to us on our <Twitter> DMs if you have further inquiry. 
+
+
+Questions (Asterisk means required, -- means input choice in Google forms)
+--------------------------------------------------------------------------
+
+What is your full name?*
+--Short answer text
+
+What is your gender?*
+--Dropdown
+
+What's your date of birth?*
+--Date
+
+What is your country of residence?*
+--Short answer text
+
+What is your citizenship?*
+--Short answer text
+
+What is your mother tongue?*
+--Short answer text
+
+What other languages do you speak?
+--Short answer text
+
+What is your profession?*
+--Short answer text
+
+Any relevant link to share about your profession?
+--Short answer text
+
+Have you produced any media work before? (Eg. Blog, Music, Podcast, Video etc)*
+--Dropdown
+
+What is your preferred contact?*
+--Dropdown
+
+Kindly provide preferred contact*
+--Short answer text
+

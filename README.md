@@ -1,7 +1,7 @@
 
 # Welcome
 
-The purpose of this repository is to design and application forms for producers or presenters for the recording of podcasts for the project. Applications are hosted on Google forms. Links to the web forms are below: 
+The purpose of this repository is to design application forms for producers or presenters for the recording of podcasts for the project. Applications are hosted on Google forms. Links to the web forms are below: 
 
 - [Producer Application](https://forms.gle/Nh4ZeKsctaxejBxf8)
 
